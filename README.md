@@ -4,11 +4,11 @@
 
 - 🔭 I’m currently working on **Software House Companies**
 
-- 🌱 I’m currently learning **Machine Learning, IoT & Product Manager**
+- 🌱 I’m currently learning **Machine Learning & IoT**
 
-- 🤝 I’m looking for help with **Machine Learning, IoT & Product Manager**
+- 🤝 I’m looking for help with **Mobile Development & Machine Learning**
 
-- 💬 Ask me about **Mobile Developer, IoT**
+- 💬 Ask me about **Mobile Developer & Machine Learning**
 
 - 📫 How to reach me **rahmadalfazr@gmail.com**
 
